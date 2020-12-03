@@ -1,0 +1,9 @@
+/content/drive/MyDrive/Feature_Extractor_orig/sample_videos/second_dataset/resturant/abnormal1.mp4
+/content/drive/MyDrive/Feature_Extractor_orig/sample_videos/second_dataset/resturant/abnormal2.mp4
+/content/drive/MyDrive/Feature_Extractor_orig/sample_videos/second_dataset/resturant/abnormal3.mp4
+/content/drive/MyDrive/Feature_Extractor_orig/sample_videos/second_dataset/resturant/abnormal4.mp4
+/content/drive/MyDrive/Feature_Extractor_orig/sample_videos/second_dataset/resturant/abnormal5.mp4
+/content/drive/MyDrive/Feature_Extractor_orig/sample_videos/second_dataset/resturant/normal2.mp4
+/content/drive/MyDrive/Feature_Extractor_orig/sample_videos/second_dataset/resturant/normal3.mp4
+/content/drive/MyDrive/Feature_Extractor_orig/sample_videos/second_dataset/resturant/normal4.mp4
+/content/drive/MyDrive/Feature_Extractor_orig/sample_videos/second_dataset/resturant/normal5.mp4

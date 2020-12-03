@@ -1,0 +1,12 @@
+/content/drive/My Drive/Feature_Extractor_orig/sample_videos/second dataset/Biliard/abnormal1.mp4
+1
+/content/drive/My Drive/Feature_Extractor_orig/sample_videos/second dataset/Biliard/abnormal2.mp4
+1
+/content/drive/My Drive/Feature_Extractor_orig/sample_videos/second dataset/Biliard/abnormal3.mp4
+1
+/content/drive/My Drive/Feature_Extractor_orig/sample_videos/second dataset/Biliard/normal1.mp4
+0
+/content/drive/My Drive/Feature_Extractor_orig/sample_videos/second dataset/Biliard/normal2.mp4
+0
+/content/drive/My Drive/Feature_Extractor_orig/sample_videos/second dataset/Biliard/normal3.mp4
+0
