@@ -1,4 +1,0 @@
-3
-Normal,0
-Fight,1
-Fire,2
